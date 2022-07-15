@@ -6,4 +6,4 @@ I'm interested in: Being a Backend or Fullstack Web Dev, JavaScript, Node.js, SQ
 
 One of my favorite games right now: The Long Dark. It's an indie survival game where you try and survive in a post-apocalypse northern Canada, and it's very relaxed. It helps me unwind after a long day of coding. 
 
-If you have any questions for me, please email me at gclancy121@gmail.com, or reach out to me via text at +1 (636) 866-4313! 
+If you have any questions for me, please email me at gclancy121@gmail.com! 
