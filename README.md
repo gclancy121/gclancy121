@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gclancy121@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MFQ04_HQTYdjWKxWd-FRQyIvwkcXaU0uELBtC1OKwW0/edit?usp=sharing]
+- 📄 Read about my experiences [https://docs.google.com/document/d/1MFQ04_HQTYdjWKxWd-FRQyIvwkcXaU0uELBtC1OKwW0/edit?usp=sharing]
 
 - ⚡ Fun fact **I have a pet turtle named Dude**
 
