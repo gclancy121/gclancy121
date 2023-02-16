@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Message Board personal project!] Frontend: https://github.com/gclancy121/message-board-frontend, Backend: https://github.com/gclancy121/message-board-api
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Typescript, AWS**
 - 🔃 I'm currently refreshing **JavaScript, React**
 
 - 💬 Ask me about **JavaScript, React, SQL**
